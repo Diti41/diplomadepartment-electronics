@@ -127,17 +127,18 @@ nav ul li a i {
 }
 .picslide{
 	background-image: linear-gradient(to right, #00ff00,black, yellow);
+	overflow: hidden;
 }
 
 .slideshow-container {
     
-    max-width: 700px;
-    margin: auto;
+        max-width: 700px;
+        margin: auto;
 	margin-top: 50px;
 	width: 500px;
 	height: 250px;
 	border: 2px solid #003300;
-	overflow: hidden;
+	overflow-x: hidden;
 	
 }
 .firstPic{
