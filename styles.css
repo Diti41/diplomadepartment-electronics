@@ -96,7 +96,7 @@ nav {
     transition: 0.5s;
     padding-top: 60px;
     z-index: 1;
-	background-image: linear-gradient(	 #1a75ff,green,  yellow);
+    background-image: linear-gradient(	 #1a75ff,green,  yellow);
 }
 
 nav ul {
@@ -141,11 +141,12 @@ nav ul li a i {
 	width: 500px;
 	height: 250px;
 	border: 2px solid #003300;
+	overflow: hidden;
 	
 }
 .firstPic{
 	max-width: 700px;
-    margin: auto;
+        margin: auto;
 	margin-top: 120px;
 	border: 2px solid #003300;
 	
@@ -155,10 +156,11 @@ nav ul li a i {
 	max-width: auto;
 	width: 700px;
 	height: 350px;
-    margin: auto;
+        margin: auto;
 	margin-top: 10px;
-    text-align: center;
+        text-align: center;
 	box-shadow: 2px 4px 10px rgba(0, 1, 2, 0.5);
+	overflow: hidden;
 	
 
 }
