@@ -153,15 +153,7 @@ nav ul li a i {
 	
 }
 .firstPic{
-	margin-top: 120px;
-	margin-left: auto;
-	margin-right: auto;
-	width: 300px;
-	height: 100px;
-	overflow: hidden;
-	align-items: center;
-	justify-content: center;
-	
+	border-bottom: 2px solid #003300;
 	
 }
 
