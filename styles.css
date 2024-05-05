@@ -158,8 +158,7 @@ nav ul li a i {
 	margin-right: auto;
 	width: 300px;
 	height: 100px;
-	border: 2px solid #003300;
-	overflow-x: hidden;
+	overflow: hidden;
 	align-items: center;
 	justify-content: center;
 	
