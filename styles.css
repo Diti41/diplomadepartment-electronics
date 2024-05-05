@@ -208,7 +208,7 @@ nav ul li a i {
     bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
-    color: white;
+    color: black;
     padding: 10px 20px;
 	
 }
@@ -265,6 +265,7 @@ footer {
 	margin-top: 10px;
 	font-family: Tahoma;
 	font-size: 10px;
+	color: black;
 }
 .author-details p{
 	font-size: 15px;
