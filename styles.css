@@ -134,7 +134,9 @@ nav ul li a i {
     margin-right: 10px;
 }
 .picslide{
-	background-image: linear-gradient(to right, #00ff00,black, yellow);
+	background-image: linear-gradient(to right, #00ff00,#ffad33, yellow);
+	text-align: center;
+	padding-bottom: 30px;
 	overflow: hidden;
 }
 
