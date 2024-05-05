@@ -270,7 +270,7 @@ footer {
   overflow: hidden; /* Hide child buttons initially */
   transition: width 0.3s ease; /* Smooth transition for width change */
   transition: height 0.3s ease;
-  margin-top: 200px;
+  margin-top: 110px;
 }
 
 /* Style for the arrow */
