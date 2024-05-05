@@ -145,7 +145,7 @@ nav ul li a i {
         margin: auto;
 	margin-top: 120px;
 	border: 2px solid #003300;
-	
+	overflow-x: hidden;
 }
 
 .firstPic img{
@@ -156,7 +156,7 @@ nav ul li a i {
 	margin-top: 10px;
         text-align: center;
 	box-shadow: 2px 4px 10px rgba(0, 1, 2, 0.5);
-	overflow: hidden;
+	
 	
 
 }
