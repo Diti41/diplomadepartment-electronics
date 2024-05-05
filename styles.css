@@ -4,6 +4,8 @@ body {
     margin: 0;
     padding: 0;
     background-image: linear-gradient(to right, #4CE92D,#e6ffff, #F1F517);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header {
