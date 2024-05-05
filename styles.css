@@ -3,10 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    overflow-x: hidden;
     background-image: linear-gradient(to right, #4CE92D,#e6ffff, #F1F517);
-    dipslay: flex;
-    width: 100%;
 }
 
 header {
