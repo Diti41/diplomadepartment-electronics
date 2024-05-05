@@ -142,13 +142,14 @@ nav ul li a i {
 
 .slideshow-container {
     
-        max-width: 700px;
         margin: auto;
 	margin-top: 50px;
 	width: 500px;
-	height: 250px;
+	height: 300px;
 	border: 2px solid #003300;
 	overflow: hidden;
+	align-items: center;
+	justify-content: center;
 	
 }
 .firstPic{
@@ -202,7 +203,8 @@ nav ul li a i {
 }
 
 .slide img {
-    width: 100%;
+    max-width: 100%;
+	max-height: 100%;
 }
 
 .text {
