@@ -152,22 +152,23 @@ nav ul li a i {
 	
 }
 .firstPic{
-	max-width: 700px;
-        margin: auto;
 	margin-top: 120px;
+	margin-left: 25%;
 	border: 2px solid #003300;
+	box-shadow: 2px 4px 10px rgba(0, 1, 2, 0.5);
+	width: 500px;
+	height: 300px;
 	overflow: hidden;
+	align-items: center;
+	justify-content: center;
+	
 }
 
 .firstPic img{
-	max-width: auto;
-	width: 700px;
-	height: 350px;
-        margin: auto;
+	max-width: 100%;
+	max-height: 100%;
         text-align: center;
 	box-shadow: 2px 4px 10px rgba(0, 1, 2, 0.5);
-	
-	
 
 }
 .item {
